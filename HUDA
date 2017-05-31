@@ -1,0 +1,54 @@
+<!CODTYPE html>
+<html>
+<head>
+  <meata charset="utf-8">
+    <meta name="keywords" content="web,html,language">
+    <meta name="description" content="tis website is about programming languages">
+    <meta name="author" content="HUDA">
+  <p id="H"> <title>  STORIES  </title> </p>
+  </head>
+
+  <body>
+<h1> Home </h1>
+<h3> this website is about programming languages </h3> <br>
+<a href="#about"> about my self & my country </a> <br>
+<a href="#language"> programming language </a> <br>
+
+<hr>
+<p id= "about"> <h1> about my self & my country </h1> </p>
+<p> <h3> I'm Huda, I'm 19, and Computer science student at PNU.  <br>
+  Saudi Arabia is my country. <br>
+  it's the largest state in Western Asia with an area of more than 2 million km. <br>
+   I'm proud to be a Saudi. <br>
+   my account on Twitter : <a href="https://twitter.com/HudaAlMimoni" target="_blank"> HudaAlmimoni </a>
+   </h3> </p>
+
+
+<p id="language" > <h1> programming languages</h1> </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9hKYm75vkHT8aVdlgYuSCrGIbJVyHqpfKRwGqUnS9Ti7LAnlZw" width="300"  alt="programming" height="200"> <br>
+  <a href="#java"> java language </a> <br>
+  <a href="#C++"> C++ language </a> <br>
+  <a href="#Python"> Python language </a> <br>
+<p id="java">  <h2> java </h2> </p>
+  <p> <h3>  <a href="https://simple.wikipedia.org/wiki/Java_" target="_blank"> Java </a>  is a programming language. <br>
+    It was first developed by James Gosling at Sun Microsystems, which is now a part of Oracle Corporation. <br>
+    It was released in 1995 as a part of Sun Microsystems' Java platform.  </h3> </p> <br>
+
+
+ <p id="C++"> <h2> C++ </h2> </p>
+<p> <h3> <a href="https://www.techopedia.com/definition/26184/c-programming-language" target="_blank"> C++ </a> is a general-purpose object-oriented programming (OOP) language, <br>
+  developed by Bjarne Stroustrup, and is an extension of the C language.<br>
+   It is therefore possible to code C++ in a "C style". </h3> </p> <br>
+
+
+
+  <p id="Python"> <h2> Python </h2> </p>
+  <p> <h3> <a href="https://en.wikipedia.org/wiki/Python_" target="_blank"> Python  </a> is a widely used high-level programming language for general-purpose programming, <br>
+ created by Guido van Rossum and first released in 1991.<br>
+  An interpreted language, Python has a design philosophy which emphasizes code readability
+      (notably using whitespace indentation to delimit code blocks rather than curly brackets or keywords), <br>
+      and a syntax which allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java. <br>
+      The language provides constructs intended to enable writing clear programs on both a small and large scale. </h3></p> <br>
+<a href="#H"> TOP </a>
+</body>
+  </html>
